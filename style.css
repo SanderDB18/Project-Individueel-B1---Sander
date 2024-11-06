@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    display: flex;
+}
+
+.achtergrond {
+    position: relative;
+    height: 990px; 
+    width: 100%;
+    background-image: url("image/indexpagina.png"); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.knop1 {
+    position: absolute;
+    top: 64%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop2 {
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop3 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.achtergrond2 {
+    position: relative;
+    height: 990px;
+    width: 100%;
+    background-image: url("image/hoewerkthetpagina.png"); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.knop4 {
+    position: absolute;
+    top: 60%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop5 {
+    position: absolute;
+    top: 68%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop6 {
+    position: absolute;
+    top: 76%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.achtergrond3 {
+    position: relative;
+    height: 990px; 
+    width: 100%;
+    background-image: url("image/productpagina.png"); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.knop7 {
+    position: absolute;
+    top: 60%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop8 {
+    position: absolute;
+    top: 68%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop9 {
+    position: absolute;
+    top: 76%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.achtergrond4 {
+    position: relative;
+    height: 990px; 
+    width: 100%;
+    background-image: url("image/doemeepagina.png"); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.knop10 {
+    position: absolute;
+    top: 62%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop11 {
+    position: absolute;
+    top: 70%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
+.knop12 {
+    position: absolute;
+    top: 78%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+    width: 230px; 
+    height: auto;
+}
+
